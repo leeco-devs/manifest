@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <manifest>
+        <project name="leeco-devs/proprietary_vendor_leeco" path="vendor/leeco" remote="github" />
+    </manifest>
