@@ -23,8 +23,6 @@ Recommended to use repopick.
 - 187060
 ### remove overlays
 - 187083
-### update media profiles
-- 189040
 ### zl1 kill selinux
 - 186921
 ### zl1 disable overlays
