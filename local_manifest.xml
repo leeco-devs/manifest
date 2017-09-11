@@ -12,7 +12,7 @@
         <remove-project name="LineageOS/android_hardware_qcom_audio" revision="lineage-15.0-caf-8996" ></remove-project>
         <remove-project name="LineageOS/android_hardware_qcom_display" revision="lineage-15.0-caf-8996" ></remove-project>
         <remove-project name="LineageOS/android_hardware_qcom_media" revision="lineage-15.0-caf-8996" ></remove-project>
-        <project path="hardware/qcom/audio-caf/msm8996" name="leeco-devs/android_hardware_qcom_audio" revision="lineage-15.0-caf-8996" />
+        <project path="hardware/qcom/audio-caf/msm8996" name="leeco-devs/android_hardware_qcom_audio" revision="LA.UM.6.5.r1-02500-8x96.0" />
         <project path="hardware/qcom/display-caf/msm8996" name="leeco-devs/android_hardware_qcom_display" revision="lineage-15.0-caf-8996" />
         <project path="hardware/qcom/media-caf/msm8996" name="leeco-devs/android_hardware_qcom_media" revision="lineage-15.0-caf-8996" />
 
