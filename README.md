@@ -7,7 +7,7 @@ Recommended to use repopick.
 - 185491
 ### lineage shims
 - 185640
-
+-----
 ### msm8996 kill selinux
 - 189039
 ### msm8996 disable doze app
@@ -23,23 +23,23 @@ Recommended to use repopick.
 ### msm8996 remove bt/wlan caf
 - 189262
 ### msm8996 disable soundtrigger
-189282
+- 189282
 ### msm8996 update seccomp
-189284
+- 189284
 ### msm8996 audio configs
-189285
-
+- 189285
+-----
 ### msm8996 kernel audio
-189276
-189280
-189281
-189277
-189278
-189279
-
+- 189276
+- 189280
+- 189281
+- 189277
+- 189278
+- 189279
+-----
 ### zl1 kill selinux
 - 186921
 ### zl1 disable overlays
 - 187080
 ### zl1 audio configs
-189286
+- 189286
