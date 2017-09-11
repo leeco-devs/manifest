@@ -7,6 +7,12 @@ Recommended to use repopick.
 - 185491
 ### lineage shims
 - 185640
+### tinycompress
+- 185936
+- 188064
+- 189132
+- 185937
+- 185938
 -----
 ### msm8996 kill selinux
 - 189039
