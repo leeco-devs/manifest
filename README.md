@@ -23,5 +23,5 @@ Recommended to use repopick.
 - 186921
 ### zl1 disable overlays
 - 187080
-# remove bt/wlan caf
-189262
+### remove bt/wlan caf
+- 189262
