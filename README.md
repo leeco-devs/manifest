@@ -3,10 +3,6 @@
 Recommended to use repopick.
 
 -----
-### healthd update deps
-- 185521
-### kill android alarm
-- 187951
 ### kill vendor overlays
 - 185491
 ### shims
@@ -27,7 +23,5 @@ Recommended to use repopick.
 - 186921
 ### zl1 disable overlays
 - 187080
-### surfaceflinger hack
-- 189048
-### use aosp hals, update display flags
-- 187058
+# remove bt/wlan caf
+189262
