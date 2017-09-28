@@ -3,16 +3,9 @@
 Recommended to use repopick.
 
 -----
-### lineage kill vendor overlays
-- 185491
 ### lineage shims
 - 185640
-### tinycompress
-- 185936
-- 188064
-- 189132
-- 185937
-- 185938
+- 190614
 -----
 ### msm8996 kill selinux
 - 189039
@@ -26,6 +19,8 @@ Recommended to use repopick.
 - 187060
 ### msm8996 remove overlays
 - 187083
+### msm8996 media profiles
+- 189040
 ### msm8996 remove bt/wlan caf
 - 189262
 ### msm8996 disable soundtrigger
@@ -34,14 +29,6 @@ Recommended to use repopick.
 - 189284
 ### msm8996 audio configs
 - 189285
------
-### msm8996 kernel audio
-- 189276
-- 189280
-- 189281
-- 189277
-- 189278
-- 189279
 -----
 ### zl1 kill selinux
 - 186921
