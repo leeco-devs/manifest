@@ -19,20 +19,10 @@ Recommended to use repopick.
 - 187060
 ### msm8996 remove overlays
 - 187083
-### msm8996 media profiles
-- 189040
-### msm8996 remove bt/wlan caf
-- 189262
 ### msm8996 disable soundtrigger
 - 189282
-### msm8996 update seccomp
-- 189284
-### msm8996 audio configs
-- 189285
 -----
 ### zl1 kill selinux
 - 186921
 ### zl1 disable overlays
 - 187080
-### zl1 audio configs
-- 189286
