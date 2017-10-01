@@ -21,6 +21,8 @@ Recommended to use repopick.
 - 187083
 ### msm8996 disable soundtrigger
 - 189282
+### msm8996: binderize all the things
+- 191731
 -----
 ### zl1 kill selinux
 - 186921
