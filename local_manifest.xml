@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <manifest>
         <!-- leeco-devs -->
-        <project name="leeco-devs/android_kernel_leeco_msm8996" path="kernel/leeco/msm8996" remote="github" />
+        <project name="leeco-devs/android_kernel_leeco_msm8996" path="kernel/leeco/msm8996" remote="github" revision="lineage-15.0-rebase" />
         
         <!-- LineageOS -->
         <project name="LineageOS/android_device_leeco_msm8996-common" path="device/leeco/msm8996-common" remote="github" />
