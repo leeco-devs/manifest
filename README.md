@@ -6,6 +6,8 @@ Recommended to use repopick.
 ### lineage shims
 - 185640
 - 190614
+### netd hal
+- 190483
 -----
 ### msm8996 kill selinux
 - 189039
