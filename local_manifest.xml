@@ -2,6 +2,10 @@
     <manifest>
         <!-- leeco-devs -->
         <project name="leeco-devs/android_kernel_leeco_msm8996" path="kernel/leeco/msm8996" remote="github" revision="lineage-15.0-rebase" />
+
+        <!-- arco -->
+        <remove-project name="LineageOS/android_frameworks_av" />
+        <project name="arco/android_frameworks_av" path="frameworks/av" remote="github" revision="staging/lineage-15.0" />
         
         <!-- LineageOS -->
         <project name="LineageOS/android_device_leeco_msm8996-common" path="device/leeco/msm8996-common" remote="github" />
