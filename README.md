@@ -8,6 +8,8 @@ Recommended to use repopick.
 - 190614
 ### netd hal
 - 190483
+### device asserts
+- 186687
 -----
 ### msm8996 kill selinux
 - 189039
