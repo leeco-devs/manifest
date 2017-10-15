@@ -11,9 +11,6 @@ Recommended to use repopick.
 ### device asserts
 - 186687
 -----
-### msm8996 kernel camera
-- 192413
------
 ### msm8996 camera
 - 192339
 ### msm8996 kill selinux
