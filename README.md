@@ -25,3 +25,5 @@ Recommended to use repopick.
 -----
 ### zl1 disable overlays
 - 187080
+### zl1 disable selinux for bringup
+- 193332
