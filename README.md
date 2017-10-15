@@ -10,10 +10,6 @@ Recommended to use repopick.
 - 190483
 ### device asserts
 - 186687
-### camera interface
-- 190821
-- 190822
-- 191106
 -----
 ### msm8996 kernel camera
 - 192413
