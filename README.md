@@ -14,14 +14,12 @@ Recommended to use repopick.
 ### msm8996 kernel camera
 - 192413
 -----
-### msm8996: camera
+### msm8996 camera
 - 192339
 ### msm8996 kill selinux
 - 189039
 ### msm8996 kill recovery updater
 - 187035
-### msm8996 disable power hints
-- 187060
 ### msm8996 remove overlays
 - 187083
 -----
