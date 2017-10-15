@@ -10,7 +10,16 @@ Recommended to use repopick.
 - 190483
 ### device asserts
 - 186687
+### camera interface
+- 190821
+- 190822
+- 191106
 -----
+### msm8996 kernel camera
+- 192413
+-----
+### msm8996: camera
+- 192339
 ### msm8996 kill selinux
 - 189039
 ### msm8996 kill recovery updater
