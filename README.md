@@ -23,7 +23,5 @@ Recommended to use repopick.
 ### msm8996 remove overlays
 - 187083
 -----
-### zl1 kill selinux
-- 186921
 ### zl1 disable overlays
 - 187080
