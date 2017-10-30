@@ -8,6 +8,9 @@ Recommended to use repopick.
 - 190614
 ### device asserts
 - 186687
+### tertiary display
+- 188336
+- 188337
 -----
 ### msm8996 kill selinux
 - 189039
