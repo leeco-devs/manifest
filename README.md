@@ -11,6 +11,8 @@ Recommended to use repopick.
 ### tertiary display
 - 187643
 - 187644
+### CameraProvider: disable openLegacy
+- 194860
 -----
 ### msm8996 kill selinux
 - 189039
