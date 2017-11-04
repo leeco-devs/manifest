@@ -11,6 +11,8 @@ Recommended to use repopick.
 ### tertiary display
 - 187643
 - 187644
+### fingerprint performance stats
+- 195141
 -----
 ### msm8996 kill selinux
 - 189039
