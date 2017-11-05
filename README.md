@@ -14,14 +14,8 @@ Recommended to use repopick.
 ### fingerprint performance stats
 - 195141
 -----
-### msm8996 kill selinux
+### msm8996 disable selinux
 - 189039
-### msm8996 kill recovery updater
-- 187035
-### msm8996 remove overlays
-- 187083
 -----
-### zl1 disable overlays
-- 187080
-### zl1 disable selinux for bringup
+### zl1 disable selinux
 - 193332
