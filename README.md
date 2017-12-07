@@ -4,15 +4,11 @@ Recommended to use repopick.
 
 -----
 ### lineage shims
-- 185640
 - 190614
 ### device asserts
 - 186687
-### tertiary display
-- 187643
-- 187644
-### fingerprint performance stats
-- 195141
+### common msm hal
+- 192352
 -----
 ### msm8996 disable selinux
 - 189039
